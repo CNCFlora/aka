@@ -1,0 +1,8 @@
+aka:
+  image: diogok/lein
+  ports:
+    - 8081:8080
+  volumes:
+    - .:/project
+    - ~/.m2:/m2
+    - ./data:/var/data/aka

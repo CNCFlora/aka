@@ -1,0 +1,29 @@
+
+.layout {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.fa {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+button .fa {
+  margin: 0;
+}
+
+.content a,.content a:link,.content a:visited,.content a:active {
+  color: #333;
+  text-decoration:none;
+}
+
+.content a:hover {
+  text-decoration: underline;
+}
+
+
+form {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
